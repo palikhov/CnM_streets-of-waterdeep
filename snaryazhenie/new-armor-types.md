@@ -1,10 +1,6 @@
 # New Armor Types
 
-
-
-Armor Cost Armor Class \(AC\) Strength Stealth Weight 
-Buckler 5 gp +1 - - 4 lb 
-Tower Shield 30 gp +3 Str 13 Disadvantage 40 lb
+Armor Cost Armor Class \(AC\) Strength Stealth Weight Buckler 5 gp +1 - - 4 lb Tower Shield 30 gp +3 Str 13 Disadvantage 40 lb
 
 **Buckler**: This small shield is fitted around the arm and made of metal, wood, or boiled leather. It takes the same time to don and doff as a normal shield \(1 action\) and a character cannot benefit from a buckler and any other type of shield at the same time. Unlike a shield, a character can still use the hand in which the buckler is equipped. If during a character's turn they use an item with this hand, attack with a weapon in this hand, or attack with a two-handed weapon, then the character does not gain the buckler's bonus to AC until the start of their next turn. Attacking with a one-handed weapon or thrown weapon using the buckler hand causes disadvantage on the attack roll. The hand wielding the buckler does not count as a free hand for the purposes of spellcasting, grappling, or unarmed attacks. A character proficient with shields is also considered proficient with bucklers. A buckler does not benefit from the rules or abilities that specifically refer to shields, such as the Protection Fighting Style or the Shield Master feat.
 

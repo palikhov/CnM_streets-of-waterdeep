@@ -77,7 +77,7 @@
   * [Управление животными](modifikacii-pravil/home-rules/upravlenie-zhivotnymi.md)
   * [Revised Mounted Combat](modifikacii-pravil/home-rules/revised-mounted-combat.md)
   * [Бой двумя оружиями](modifikacii-pravil/home-rules/boi-dvumya-oruzhiyami.md)
-  * [Знания как владение инструментами](modifikacii-pravil/home-rules/znaniya-kak-vladenie-instrumentami.md)
+  * [Знания](modifikacii-pravil/home-rules/znaniya-kak-vladenie-instrumentami.md)
   * [Feats Fixes](modifikacii-pravil/home-rules/feats-fixes.md)
   * [Poison Remake](modifikacii-pravil/home-rules/poison-remake.md)
   * [Two arcane focuses](modifikacii-pravil/home-rules/two-arcane-focuses.md)
@@ -87,6 +87,7 @@
   * [Class tweaks and fixes](modifikacii-pravil/home-rules/untitled-1.md)
   * [Increasing role of Intelligence ability](modifikacii-pravil/home-rules/increasing-role-of-intelligence-ability.md)
   * [Detalization of survival and travel rules](modifikacii-pravil/home-rules/detalization-of-survival-and-travel-rules.md)
+  * [Достижения как условие повышение уровня](modifikacii-pravil/home-rules/dostizheniya-kak-uslovie-povyshenie-urovnya.md)
 * [Beyond Damage Dice](modifikacii-pravil/beyond-damage-dice.md)
 * [Языки](modifikacii-pravil/untitled.md)
 * [Разъяснения правил](modifikacii-pravil/razyasneniya-pravil/README.md)
@@ -102,6 +103,7 @@
 * [Potions & Spell Scrolls](snaryazhenie/potions-and-spell-scrolls.md)
 * [New Armor Types](snaryazhenie/new-armor-types.md)
 * [Spellbook Costs](snaryazhenie/untitled.md)
+* [Homebrew feats](snaryazhenie/homebrew-feats.md)
 
 ## Управление таверной
 
@@ -115,7 +117,6 @@
 * [Learning New Spells](downtime-activities-new/learning-new-spells.md)
 * [New Spells by Class](downtime-activities-new/new-spells-by-class.md)
 * [Untitled](downtime-activities-new/untitled-1.md)
-* [Homebrew feats](downtime-activities-new/homebrew-feats.md)
 
 ## USEFUL LINKS
 

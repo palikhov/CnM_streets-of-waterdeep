@@ -1,6 +1,10 @@
 # Spell Fixes
 
-Cloud of Daggers 
+## 2
 
-Guardian of Nature
+### Cloud of Daggers 
+
+## 4
+
+### Guardian of Nature
 

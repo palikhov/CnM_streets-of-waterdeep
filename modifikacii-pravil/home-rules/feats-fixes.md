@@ -1,8 +1,6 @@
 # Feats Fixes
 
-
-  
-### Feats Fixes
+## Feats Fixes
 
 Tavern Brawler
 
