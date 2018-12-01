@@ -111,7 +111,8 @@
 
 ## Downtime activities new
 
-* [Information Network](downtime-activities-new/untitled.md)
+* [Establish Information Network](downtime-activities-new/untitled.md)
+* [Types of Information Networks](downtime-activities-new/types-of-information-networks.md)
 * [Research](downtime-activities-new/research.md)
 * [Running a Business](downtime-activities-new/running-a-business.md)
 * [Learning New Spells](downtime-activities-new/learning-new-spells.md)
