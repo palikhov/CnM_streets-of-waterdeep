@@ -4,11 +4,11 @@
 
 ## Bard Spells
 
-Cantrip
+### Cantrip
 
 Flying Blade
 
-First Level
+### First Level
 
 Detect Life
 
@@ -24,7 +24,7 @@ Tasso's shriek
 
 Wardaway
 
-Second Level
+### Second Level
 
 Irithra's Spelltouch
 
@@ -34,19 +34,19 @@ Protection from Missiles
 
 Seasight
 
-Seventh Level
+### Seventh Level
 
 Create soundstaff
 
 ## Cleric Spells
 
-First Level
+### First Level
 
 Invigorate
 
 Repair Undead
 
-Second Level
+### Second Level
 
 Examine the Weft
 
@@ -54,41 +54,41 @@ Glyph of Revealing
 
 Maskstone
 
-Third Level
+### Third Level
 
 Spell Shield
 
-Fourth Level
+### Fourth Level
 
 Mantle of Mystra
 
 Stars of Mystra
 
-Fifth Level
+### Fifth Level
 
 Spell Phylactery
 
-Sixth Level
+### Sixth Level
 
 Flameproof
 
-Seventh Level
+### Seventh Level
 
 Holy Star
 
 ## Paladin Spells
 
-First Level
+### First Level
 
 Invigorate
 
 ## Mage Spells
 
-Cantrip
+### Cantrip
 
 Flying Blade
 
-First Level
+### First Level
 
 Detect Life
 
@@ -112,7 +112,7 @@ Tasso's shriek
 
 Wardaway
 
-Second Level
+### Second Level
 
 Disguise Undead
 
@@ -134,7 +134,7 @@ Seasight
 
 Sunbolt
 
-Third Level
+### Third Level
 
 Analyze Portal
 
@@ -152,7 +152,7 @@ Spell Shield
 
 Teleport Object
 
-Fourth Level
+### Fourth Level
 
 Dweomerflow
 
@@ -160,13 +160,13 @@ Hailcone
 
 Stars of Mystra
 
-Fifth Level
+### Fifth Level
 
 Spell Phylactery
 
 Wind Carpet
 
-Sixth Level
+### Sixth Level
 
 Flameproof
 
@@ -174,7 +174,7 @@ Gate Seal
 
 Spellmantle
 
-Seventh Level
+### Seventh Level
 
 Create Shade
 
@@ -184,7 +184,7 @@ Holy Star
 
 Water Form
 
-Eighth Level
+### Eighth Level
 
 Dimensional Lock
 

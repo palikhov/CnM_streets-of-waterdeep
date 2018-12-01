@@ -1,6 +1,8 @@
 # Initial page
 
+## Разрешенные  дополнительные источники
 
+Dragon Rock - Faiths of the Forgotten Realms v1.1
 
 {% page-ref page="pravila-po-sozdaniyu-personazhei.md" %}
 
