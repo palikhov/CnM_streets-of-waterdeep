@@ -79,7 +79,6 @@
   * [Бой двумя оружиями](modifikacii-pravil/home-rules/boi-dvumya-oruzhiyami.md)
   * [Знания](modifikacii-pravil/home-rules/znaniya-kak-vladenie-instrumentami.md)
   * [Feats Fixes](modifikacii-pravil/home-rules/feats-fixes.md)
-  * [Poison Remake](modifikacii-pravil/home-rules/poison-remake.md)
   * [Two arcane focuses](modifikacii-pravil/home-rules/two-arcane-focuses.md)
   * [Spell Fixes](modifikacii-pravil/home-rules/spell-fixes.md)
   * [Item fixes](modifikacii-pravil/home-rules/item-fixes.md)
@@ -93,16 +92,18 @@
 * [Разъяснения правил](modifikacii-pravil/razyasneniya-pravil/README.md)
   * [Greater Weapon Fighting](modifikacii-pravil/razyasneniya-pravil/greater-weapon-fighting.md)
   * [Скрытность и раунд внезапности](modifikacii-pravil/razyasneniya-pravil/skrytnost-i-raund-vnezapnosti.md)
+  * [Poison Remake](modifikacii-pravil/razyasneniya-pravil/poison-remake.md)
+* [Equipment](modifikacii-pravil/equipment/README.md)
+  * [New Armor Types](modifikacii-pravil/equipment/new-armor-types.md)
+  * [Spellbook Costs](modifikacii-pravil/equipment/untitled.md)
+  * [Расходуемое снаряжение](modifikacii-pravil/equipment/raskhoduemoe-snaryazhenie.md)
+  * [Mastercraft Items](modifikacii-pravil/equipment/masterwork-weapons.md)
+  * [Rare materials](modifikacii-pravil/equipment/rare-materials.md)
 * [Modified Three Pillar](modifikacii-pravil/untitled-1.md)
 
 ## Снаряжение
 
-* [Mastercraft Items](snaryazhenie/masterwork-weapons.md)
-* [Расходуемое снаряжение](snaryazhenie/raskhoduemoe-snaryazhenie.md)
-* [Rare materials](snaryazhenie/rare-materials.md)
 * [Potions & Spell Scrolls](snaryazhenie/potions-and-spell-scrolls.md)
-* [New Armor Types](snaryazhenie/new-armor-types.md)
-* [Spellbook Costs](snaryazhenie/untitled.md)
 * [Homebrew feats](snaryazhenie/homebrew-feats.md)
 
 ## Управление таверной
