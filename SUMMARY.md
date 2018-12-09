@@ -168,4 +168,6 @@
 ## Rules Analysis
 
 * [Units of Elemental Evil Cults](rules-analysis/untitled.md)
+* [Drow](rules-analysis/drow.md)
+* [Playing as mage](rules-analysis/playing-as-mage.md)
 
