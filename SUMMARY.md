@@ -165,3 +165,7 @@
 
 * [Ссылки](prilozheniya/ssylki.md)
 
+## Rules Analysis
+
+* [Untitled](rules-analysis/untitled.md)
+
